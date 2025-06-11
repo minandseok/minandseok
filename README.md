@@ -1,4 +1,6 @@
-## Hello
+Don't underestimate the world.
+Focus on getting things done, not making them perfect.
+
 <!--
 **minandseok/minandseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
