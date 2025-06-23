@@ -1,5 +1,4 @@
-- Don't underestimate the world.
-- Focus on getting things done, not making them perfect.
+세상을 과소평가 하지 말자.
 
 <!--
 **minandseok/minandseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
